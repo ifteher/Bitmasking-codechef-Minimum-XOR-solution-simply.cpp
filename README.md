@@ -1,0 +1,1 @@
+# Bitmasking-codechef-Minimum-XOR-solution-simply.cpp
